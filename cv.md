@@ -35,3 +35,12 @@ function sum(a, b) {
 
 let result = sum(4, 7);
 alert( result );
+```
+
+## Languages
+
+* **Belarusian**
+
+* **Russian**
+
+* **English**
