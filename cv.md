@@ -8,8 +8,20 @@
 
 * **Tel.:** +375256205301
 
-* **GitHub:** Pavlito19
+* **Discord:** [Pavlito#1145]()
 
 * **E-mail:** [pashaliapunov@gmail.com](pashaliapunov@gmail.com)
 
 * **GitHub:** [Pavlito19](https://github.com/Pavlito19)
+
+## About me
+
+>I want to learn Front-End Development in RSSchool!
+
+## Work experiense
+
+>Nothing yet
+
+## Education and courses
+
+>In process
