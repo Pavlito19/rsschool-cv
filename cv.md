@@ -25,3 +25,13 @@
 ## Education and courses
 
 >In process
+
+## Code example
+
+```
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(4, 7);
+alert( result );
